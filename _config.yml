@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  internetroger
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 # Build settings
 theme: minima
 plugins:
@@ -38,7 +38,6 @@ plugins:
   - jekyll-paginate
 header_pages:
   - index.html
-  - blog.html
   - about.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
