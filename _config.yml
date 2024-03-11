@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Strangrjrjr Thoughts
+title: regor is roger
 author: Roger Robertson Jr
-email: rjrjr@pm.me
-blurb: An inefficient means of turning coffee into code.
+email: roger@regor.is
+blurb: My little corner of the internet.
 description: >- # this means to ignore newlines until "baseurl:"
-  A FOSS-friendly webdev with security ambitions ruminates :cow: + :coffee:.
+  A FOSS-friendly IT guy ruminates :cow: + :coffee:.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  strangrjrjr
+github_username:  internetroger
 paginate: 5
 paginate_path: "/page:num/"
 # Build settings
